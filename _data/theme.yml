@@ -11,9 +11,9 @@ content_position: right
 # Profile links on the sidebar, leave blank to ignore
 social:
   gravatar: 56e8e22796618ea3b817d4aae19c6e33
-  facebook: tobanw
-  github: tobanw
-  linkedin: tobanw
+  facebook: josh.lemer
+  github: joshlemer
+  linkedin: joshlemer
   #twitter:
   #bitbucket:
   #hacker_news:
@@ -23,11 +23,11 @@ social:
   #gplus:
 
 # "Hi, I'm _______"
-name: Toban Wiebe
-email-user: tobanw
+name: Josh Lemer  
+email-user: joshlemer
 email-host: gmail.com
 #title:
-tagline: Economics PhD student at Penn
+tagline: Software Engineer
 
 # custom RSS feed
 feedurl: http://feeds.feedburner.com/TobanWiebe
