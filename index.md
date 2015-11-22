@@ -5,9 +5,10 @@ permalink: /
 ---
 I'm a Software Engineer in Vancouver, Canada. I currently work at [EnerNOC](http://www.enernoc.com/), creating back end services and infastructure. I mostly work with [Scala](http://www.scala-lang.org) and [Akka](http://www.akka.io) these days.
 
-I also love computers and code! I get excited about
+I get excited about
 
 - linux
+- functional programming
 - distributed and concurrent computing
 - plants
 - Open Source software
