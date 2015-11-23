@@ -5,10 +5,6 @@ nav: main
 permalink: /research/
 ---
 
-###Papers
-
-In progress...
-
 ###Presentations
 
-- [Game Theory and Evolution](/assets/GameTheoryEvolution.pdf): Canadian Undergraduate Mathematics Conference 2012
+- [Implicits and You](/assets/implicits_and_you.pdf): An overview of implicits in Scala
