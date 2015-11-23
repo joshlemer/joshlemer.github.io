@@ -7,7 +7,7 @@ permalink: /blog/
 
 <div class="main-list">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Posts (Not mine, these were from www.tobanwiebe.com, whose blog template I forked) </h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
